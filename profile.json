@@ -9,17 +9,16 @@
   "order": [
     "hero",
     "socials",
-    "about",
-    "wave",
-    "stack",
     "projects",
+    "stack",
+    "wave",
+    "buttons",
+    "about",
     "stats",
-    "streak",
-    "buttons"
+    "streak"
   ],
   "hidden": [
-    "stack",
-    "projects",
+    "about",
     "stats",
     "streak"
   ],
@@ -98,7 +97,9 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
+    "repos": [
+      "Any"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
