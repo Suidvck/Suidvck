@@ -1,25 +1,13 @@
 {
- "key": "a91dd6cf",
+ "key": "703d75fa",
  "stars": 1,
- "contributions": 74,
- "repos": 3,
+ "contributions": 27,
+ "repos": 2,
  "followers": 1,
  "languages": [
   [
-   "TypeScript",
-   689914
-  ],
-  [
    "Kotlin",
    540143
-  ],
-  [
-   "CSS",
-   20914
-  ],
-  [
-   "HTML",
-   5990
   ]
  ],
  "days": [
@@ -114,12 +102,12 @@
     "today": false
    },
    {
-    "c": 23,
+    "c": 0,
     "day": 11,
     "today": false
    },
    {
-    "c": 24,
+    "c": 0,
     "day": 12,
     "today": false
    },
@@ -132,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 2
  },
  "pins": [
@@ -168,19 +156,6 @@
     "app-builder",
     "kotlin",
     "webview"
-   ]
-  },
-  {
-   "name": "portfolio",
-   "url": "https://github.com/Suidvck/portfolio",
-   "text": "ANDA - cinematic 3D dreamcore portfolio: landing, archive, about",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": [
-    "portfolio",
-    "react",
-    "threejs"
    ]
   },
   {
