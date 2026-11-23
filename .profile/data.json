@@ -1,10 +1,14 @@
 {
- "key": "47a3bdbb",
+ "key": "2a799431",
  "stars": 1,
- "contributions": 27,
- "repos": 2,
+ "contributions": 33,
+ "repos": 3,
  "followers": 1,
  "languages": [
+  [
+   "HTML",
+   896166
+  ],
   [
    "Kotlin",
    540143
@@ -92,7 +96,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 23,
     "today": true
    },
@@ -104,7 +108,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [
@@ -141,6 +145,15 @@
     "kotlin",
     "webview"
    ]
+  },
+  {
+   "name": "stomach-ar-viewer",
+   "url": "https://github.com/Suidvck/stomach-ar-viewer",
+   "text": "Image Tracking WebAR Viewer for Human Stomach Card (MindAR + Three.js)",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
   },
   {
    "name": "Suidvck",
